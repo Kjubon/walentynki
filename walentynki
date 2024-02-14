@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laurka walentynkowa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .laurka {
+            background-color: pink;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 3px 3px 5px grey;
+        }
+        h1 {
+            color: white;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="laurka">
+        <h1>Szczęśliwych Walentynek!</h1>
+	<img id="heart" src="https://emojicdn.elk.sh/❤️" alt="Serce">
+        <p>Z okazj wanlentynek życzę Panu cierpliwości do naszej klasy, ponieważ sympatję już Pan do nas ma</p>
+        
+    </div>
+</body>
+</html>
